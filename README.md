@@ -1,8 +1,13 @@
-# promo-backend Project
+# Promo2022
 
-This project uses Quarkus, the Supersonic Subatomic Java Framework.
+Use Cases:
+* Customer profile
+* Customer has a list of promotions/gifts that has claimed.
+* Each day customer can claim a gift.
+* Each day customer can claim  daily points.
 
-If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
+
+# How to Quarkus.. 
 
 ## Running the application in dev mode
 
